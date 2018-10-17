@@ -1,31 +1,21 @@
 id,created_at,text,fav_count,retweet_count
-1052264826498625536,2018-10-16 18:27:39,b'RT @RowerowyWRO: Kolejny podpis pod deklaracj\xc4\x85 Rowerowego Wroc\xc5\x82awia z\xc5\x82o\xc5\xbcy\xc5\x82a @KatarzynaObara. Kandydatka na prezydenta dopisa\xc5\x82a do niej doda\xe2\x80\xa6',0,2
-1052258074151591936,2018-10-16 18:00:49,b'RT @DemagogPL: Prawda \xe2\x9c\x94\xef\xb8\x8f wroc\xc5\x82awskiej kandydatki  @KatarzynaObara w wypowiedzi dot. sposobu finansowania sportu na \xc5\x82amach @gazeta_wyborcza.\xe2\x80\xa6',0,3
-1052101044120014848,2018-10-16 07:36:50,b'RT @Inicjatywa2030: @KosteckiPawel @DariuszMacarz @BezpartyjnyWroc Dzi\xc5\x9b ostatni dzie\xc5\x84 dopisywania si\xc4\x99 do rejestru wyborc\xc3\xb3w. Nie trzeba si\xc4\x99\xe2\x80\xa6',0,3
-1051916687451312129,2018-10-15 19:24:16,"b'RT @tumwro: Wsp\xc3\xb3ln\xc4\x85 z @AkcjaMiasto ""Deklaracj\xc4\x99 #12prac dla Wroc\xc5\x82awia"" podpisa\xc5\x82o ju\xc5\xbc 5 kandydat\xc3\xb3w na Prezydenta: @martalempart, @MichalakJer\xe2\x80\xa6'",0,2
-1051852238027657216,2018-10-15 15:08:10,b'\xe2\x9d\xa4\xef\xb8\x8f https://t.co/s9E5jLkHbA',11,4
-1051825737420955648,2018-10-15 13:22:52,"b""RT @BezpartyjnyWroc: Miasto wg obecnej w\xc5\x82adzy: korupcja polityczna, deal'e z deweloperami, dziurawe drogi i tragiczne warunki w... https://\xe2\x80\xa6""",0,2
-1051774131438530560,2018-10-15 09:57:48,"b'RT @DariuszMacarz: Niby niewinna wizyta na Kwiskiej, a tu m\xc3\xb3j plakat na tym samym przystanku po poranku w takim stanie \xf0\x9f\x99\x82 Przypadek?\xf0\x9f\x98\x82\xf0\x9f\x98\x82 #ToTy\xe2\x80\xa6'",0,2
-1051099218839003136,2018-10-13 13:15:56,b'Niby archiwum a wci\xc4\x85\xc5\xbc niestety aktualne ... https://t.co/L0nd3qd0xs',6,1
-1050744058874929156,2018-10-12 13:44:40,b'#NoweProfilowe https://t.co/8R1zD8yTfC',7,1
-1050637220456017920,2018-10-12 06:40:07,b'RT @BezpartyjnyWroc: Spotkanie wyborc\xc3\xb3w z @KatarzynaObara w @zajezdnia. Ca\xc5\x82a transmisja dost\xc4\x99pna pod linkiem \xe2\xa4\xb5\xef\xb8\x8f\nhttps://t.co/iEjdXC8I0s htt\xe2\x80\xa6',0,5
-1050470578237427712,2018-10-11 19:37:57,"b'RT @DariuszMacarz: Trwa otwarte spotkanie w @zajezdnia z @KatarzynaObara , wracamy do tematu zr\xc3\xb3wnowa\xc5\xbconego rozwoju wszystkich osiedli Wroc\xe2\x80\xa6'",0,2
-1050102779732287490,2018-10-10 19:16:27,b'RT @DariuszMacarz: D\xc5\x82ugie popo\xc5\x82udnie na G\xc4\x85dowie ko\xc5\x84czymy spotkaniem z mieszka\xc5\x84cami razem z @KatarzynaObara. D\xc5\xbawi\xc4\x99czy w uszach pytanie o tra\xe2\x80\xa6',0,4
-1050049627653894145,2018-10-10 15:45:14,"b'RT @Inicjatywa2030: #G\xc4\x85d\xc3\xb3w, za godzin\xc4\x99 widzimy si\xc4\x99 na spotkaniu z @KatarzynaObara i @DariuszMacarz , w temacie pomys\xc5\x82y @BezpartyjnyWroc na\xe2\x80\xa6'",0,5
-1049989172738568192,2018-10-10 11:45:01,b'RT @alarm_smogowyDS: Prawie wszyscy kandydaci/tki na Prezydenta Wroc\xc5\x82awia uznali smog za jeden z najwa\xc5\xbcniejszych problem\xc3\xb3w @martalempart @M\xe2\x80\xa6',0,12
-1049989060108963842,2018-10-10 11:44:34,"b'RT @Interia_Fakty: Nowe osiedla budowane s\xc4\x85 w miejscach wykluczonych komunikacyjnie, co problemy tylko pog\xc5\x82\xc4\x99bia - uwa\xc5\xbca @KatarzynaObara. Sp\xe2\x80\xa6'",0,4
-1049959115856994305,2018-10-10 09:45:35,b'RT @okrolofficial: Wygraj\xc4\x85 najlepsi! \xf0\x9f\x92\xaa\xf0\x9f\x8f\x85\n#BezpartyjnyWroc\xc5\x82aw #Bezpartyjni @bezpartyjni_org @BezpartyjnyWroc https://t.co/mvo1RntKxn',0,3
-1049939831323848705,2018-10-10 08:28:57,b'RT @DemagogPL: Na antenie @RadioRodzina kandydat @SutrykJacek m\xc3\xb3wi\xc5\x82 o oddawanych miejscach w przedszkolach. Wypowied\xc5\xba uznajemy za fa\xc5\x82szyw\xc4\x85\xe2\x80\xa6',0,4
-1049939785593307137,2018-10-10 08:28:46,b'RT @DemagogPL: Na antenie @FaktyTVP3 @RozeckaPL wypowiada\xc5\x82a si\xc4\x99 na temat usterek w @NFM_Wro. Jej wypowied\xc5\xba uznali\xc5\x9bmy za manipulacj\xc4\x99 \xe2\x9a\xa0\xef\xb8\x8f \nDla\xe2\x80\xa6',0,4
-1049939734133465089,2018-10-10 08:28:34,b'RT @TomaszPajaczek: Wybory 2018. Prezydencka debata Onetu: co dalej z finansowaniem pi\xc5\x82karskiego \xc5\x9al\xc4\x85ska Wroc\xc5\x82aw?\nhttps://t.co/Y3PxlXVmFZ',0,3
-1049617989107142656,2018-10-09 11:10:04,"b'RT @wyborczawroclaw: Debata prezydencka ""Gazety Wyborczej"". Udzia\xc5\x82 potwierdzili ju\xc5\xbc @KatarzynaObara, @martalempart, @GoTracz, @SutrykJacek,\xe2\x80\xa6'",0,3
-1049551904055992320,2018-10-09 06:47:28,b'RT @BezpartyjnyWroc: Wczoraj @KatarzynaObara podpisa\xc5\x82a si\xc4\x99 pod 12 postulatami do wykonania przez przysz\xc5\x82ego Prezydenta Wroc\xc5\x82awia. Bardzo dz\xe2\x80\xa6',0,7
-1049332341037043712,2018-10-08 16:15:00,b'RT @OnetWiadomosci: Rozmowa z @KatarzynaObara - kandydatk\xc4\x85 na urz\xc4\x85d prezydenta Wroc\xc5\x82awia. Ogl\xc4\x85daj na &gt;&gt; https://t.co/kNh9cQniX7 \n#wybory201\xe2\x80\xa6',0,7
-1048534223857111045,2018-10-06 11:23:34,"b'RT @DemagogPL: Czy @KatarzynaObara m\xc3\xb3wi prawd\xc4\x99 nt. jej frekwencji na sesjach Rady Miasta\xe2\x9d\x94 \xe2\x9d\x93\nSprawd\xc5\xba, poczytaj:  \xe2\x9e\xa1https://t.co/enZdyIs401\n\n#\xe2\x80\xa6'",0,7
-1048514492043341824,2018-10-06 10:05:10,b'RT @TomaszPajaczek: By\xc5\x82a prezenterka telewizyjna zostanie nowym prezydentem Wroc\xc5\x82awia?\nhttps://t.co/oibQaQ7TMY',0,7
-1048514456509194241,2018-10-06 10:05:01,b'RT @PO_Dolny_Slask: .@SutrykJacek chcemy uczyni\xc4\x87 Wroc\xc5\x82aw najbardziej rowerowym miastem w Polsce. B\xc4\x99dziemy stale uzupe\xc5\x82nia\xc4\x87 braki w istniej\xc4\x85\xe2\x80\xa6',0,11
-1048121351071027201,2018-10-05 08:02:57,b'RT @BezpartyjnyWroc: Kolejny sonda\xc5\xbc i kolejny wzrost poparcia dla @KatarzynaObara \xf0\x9f\x92\xaatrzecia si\xc5\x82a systematycznie do przodu. Na pytanie czy na\xe2\x80\xa6',0,3
-1047915210969952256,2018-10-04 18:23:50,b'@MurzynskiMarcin @JHarlukowicz @SutrykJacek @RozeckaPL @martalempart @MichalakJerzy @GoTracz @BezpartyjnyWroc @bezpartyjni_org Nie mog\xc4\x99 si\xc4\x99 doczeka\xc4\x87 :-)',2,0
-1047914848032579584,2018-10-04 18:22:23,b'RT @BezpartyjnyWroc: Nie b\xc4\x85d\xc5\xba lam\xc4\x85 - g\xc5\x82osuj we Wroc\xc5\x82awiu! https://t.co/K3NT4omFpr',0,3
-1047906788937539584,2018-10-04 17:50:22,"b'@MurzynskiMarcin @JHarlukowicz @SutrykJacek @RozeckaPL @martalempart @MichalakJerzy @GoTracz @BezpartyjnyWroc @bezpartyjni_org @MurzynskiMarcin spodziewa\xc5\x82abym si\xc4\x99 jednak profesjonalnej oceny rzeczywisto\xc5\x9bci - wszystko PUD\xc5\x81O. @BezpartyjnyWroc nie ma zwi\xc4\x85zku z tym finansowaniem, ale warto zapyta\xc4\x87 wicemarsza\xc5\x82ka mo\xc5\xbce?'",1,0
-1047903830413914112,2018-10-04 17:38:36,b'@WroclawJaki @JHarlukowicz @SutrykJacek @RozeckaPL @martalempart @MichalakJerzy @GoTracz A z jakiego powodu powinnam si\xc4\x99 odnie\xc5\x9b\xc4\x87 ? @BezpartyjnyWroc nie ma nic wsp\xc3\xb3lnego z tymi pieni\xc4\x99dzmi.',0,0
+737676315722153984,2016-05-31 16:05:13,"b'@garcarzmarcin @BiuroPrasoweUMW \xc5\xbcyczeniowe my\xc5\x9blenie to za ma\xc5\x82o, polecam nauk\xc4\x99 czytania ze zrozumieniem @okwroclaw2018'",0,0
+736235256575983617,2016-05-27 16:38:58,b'Taka wizyt\xc3\xb3wka wpad\xc5\x82a mi w r\xc4\x99ce. Ilu i jakich doradc\xc3\xb3w ma prezydent Wroc\xc5\x82awia? @okwroclaw2018 #wroc\xc5\x82aw https://t.co/5Ty2kZ90IM',7,6
+735847679163535361,2016-05-26 14:58:52,b'#Wroc\xc5\x82aw #sor #usk #takasytuacja https://t.co/MEoWDnj4Q9',4,0
+735504741208330241,2016-05-25 16:16:09,b'@okwroclaw2018 do\xc5\x82\xc4\x85czycie do nas ?  https://t.co/R68ftTQGrP',5,1
+735493789511483392,2016-05-25 15:32:38,"b'Kopia to nie orygina\xc5\x82 !@wroclaw2018 to nie @okwroclaw2018, za p\xc3\xb3\xc5\xbano si\xc4\x99 obudzili\xc5\x9bcie, Panie i Panowie.  https://t.co/pIxcdAxsZo'",7,2
+735378245579857920,2016-05-25 07:53:31,b'https://t.co/ac4AfJVRfX. #Wroc\xc5\x82aw tak ch\xc4\x99tnie oddaje maj\xc4\x85tek parafiom i ko\xc5\x9bcio\xc5\x82om...',4,3
+735199506149605376,2016-05-24 20:03:16,"b'@panlistonosz, w odr\xc3\xb3\xc5\xbcnieniu od Pana idola nie zmieniam pogl\xc4\x85d\xc3\xb3w i nie wypieram przekona\xc5\x84, wi\xc4\x99c chybiony strza\xc5\x82; zdrajca nie tu @MGadawa'",0,0
+735173641185464321,2016-05-24 18:20:29,"b'@panlistonosz, brzmi Pan znajomo - jak 1 pi\xc4\x99tro w Sukiennicach? ""renegat"" - polecam sprawdzi\xc4\x87 znaczenie w s\xc5\x82owniku PWN @MGadawa ?'",0,0
+735172747089825792,2016-05-24 18:16:56,"b'@panlistonosz, du\xc5\xbco wi\xc4\x99ksz\xc4\x85 promocj\xc4\x85 jest Pa\xc5\x84ski wpis, ka\xc5\xbcdy ma inne skojarzenie z OK, a Pa\xc5\x84skie prowadzi do moich inicja\xc5\x82\xc3\xb3w :-) @MGadawa'",0,0
+735088092265238528,2016-05-24 12:40:33,b'RT @MGadawa: @okwroclaw2018 @gorskinowy @KatarzynaObara: Czas odsun\xc4\x85\xc4\x87 @dutkiewiczrafal od w\xc5\x82adzy https://t.co/a0kMvp2P7b',0,5
+734854691654270977,2016-05-23 21:13:06,"b'""Lubi\xc4\x99 - nie lubi\xc4\x99"" to nie nowe kryterium konkursowe we Wroc\xc5\x82awiu @okwroclaw2018 #nowejutromiasta #wartowalczyc  https://t.co/VNeTmVhNBs'",3,0
+734847046813908992,2016-05-23 20:42:43,b'#follow #Wroc\xc5\x82aw @okwroclaw2018 #kropladrazyskale #wartowalczyc #nowejutromiasta  https://t.co/0BRdTxyz1m',3,1
+734837735014424576,2016-05-23 20:05:43,b'Smutne standardy we Wroc\xc5\x82awiu to nawet 10 miesi\xc4\x99cy! Gdzie KPA ?!?  .  @tfurca @okwroclaw2018',1,0
+734828649187282946,2016-05-23 19:29:37,"b'Rada Miejska to organ stanowi\xc4\x85cy i kontrolny Gminy - teoria, teoria. A praktyka ? Jak wida\xc4\x87... @okwroclaw2018  https://t.co/rRkDvoPwX3'",1,2
+734827722963357700,2016-05-23 19:25:56,b'Jutro szczeg\xc3\xb3\xc5\x82y @okwroclaw2018  https://t.co/T6fXQgXJ8I',0,0
+640147469775454208,2015-09-05 13:00:24,"b'Narodowe Forum Muzyki we Wroc\xc5\x82awiu otwarte z rozmachem! Jutro inauguracja Festiwalu Wratislavia Cantans, dzieje si\xc4\x99! http://t.co/eiP6BTJWkF'",2,0
+639337027629154304,2015-09-03 07:20:00,b'Afera z budynkiem farmacji. http://t.co/pW7toPwNfS',0,0
+581485110320586752,2015-03-27 15:57:08,"b'@garcarzmarcin argument o redukcji bezrobocia i mitycznym zatrudnieniu to demagogia w czystej postaci, zw\xc5\x82aszcza we Wroc\xc5\x82awiu,gdzie jest 4%.'",7,2
+581386101555892224,2015-03-27 09:23:42,"b'@garcarzmarcin: Rz\xc4\x85d tworzy stref\xc4\x99 tylko tam, gdzie chce i zgod\xc4\x99 wyrazi miasto;  nie wypaczaj sensu rozmowy z  @JHarlukowicz'",2,0
+492716738979840000,2014-07-25 17:03:19,"b'""Bezpa\xc5\x84skie psy"" teraz ... 14#FNH#Wroc\xc5\x82aw'",1,0
